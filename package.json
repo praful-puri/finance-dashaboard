@@ -1,0 +1,10 @@
+{
+  "name": "finance-dashboard-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix finance-dashboard run dev",
+    "build": "npm --prefix finance-dashboard run build",
+    "lint": "npm --prefix finance-dashboard run lint",
+    "preview": "npm --prefix finance-dashboard run preview"
+  }
+}
